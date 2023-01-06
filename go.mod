@@ -3,7 +3,7 @@ module github.com/barrettj12/sudoku
 go 1.19
 
 require (
-	github.com/barrettj12/collections v0.0.0-20221225234119-85eca5c61f1b
+	github.com/barrettj12/collections v0.0.0-20230106054051-4651592a9764
 	github.com/barrettj12/screen v0.0.0-20230105202644-d1d68446f2b3
 	github.com/jedib0t/go-sudoku v0.0.2
 )
